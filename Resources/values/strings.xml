@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor EUR/USD</string>
+    <string name="title_conversor">Conversor de Moedas</string>
+    <string name="hint_amount">Insira o valor</string>
+    <string name="btn_convert">Converter</string>
+    <string name="btn_swap">Trocar Moedas</string>
+    <string name="result_label">Resultado:</string>
+    <string name="usd_label">Dólar Americano (USD)</string>
+    <string name="eur_label">Euro (EUR)</string>
+    <string name="rate_label">Taxa atual: 1 EUR = 1.07 USD</string>
+</resources>
